@@ -25,9 +25,9 @@
 <!-- SNAKE ANIMATIONS (auto-updated every 6 hours) -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-dark.svg"/>
-  <img alt="Snake Dark" src="./dist/snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./dist/snake-neon.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-neon.svg"/>
+  <img alt="Snake Dark" src="./dist/snake-neon.svg" width="100%"/>
 </picture>
 
 <br>
