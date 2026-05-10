@@ -17,8 +17,8 @@ elif 17 <= hour < 21:
 else:
     greeting = "Good Night"
 
-name = "Abdulrahman Fikry"
-title = ".NET Developer | DevOps Engineer"
+name = "Abdallh Elzorkany"
+title = "Software Engineer | Front-end Engineer"
 
 svg = (
     '<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">\n'
