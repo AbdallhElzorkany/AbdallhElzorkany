@@ -36,7 +36,7 @@
 ---
 <div align="center">
 
-## whoami
+## Who am i?
 
 **Name**     : Abdallh Elzorkany  
 **Role**     : Software Engineer | Front-end Engineer  
@@ -48,7 +48,7 @@
 
 ---
 
-## stats
+## Stats
 
 <div align="center">
 
@@ -178,7 +178,7 @@
 ## 3D Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
 
