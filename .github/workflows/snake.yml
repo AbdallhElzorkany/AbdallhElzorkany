@@ -24,8 +24,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: AbdallhElzorkany
-          outputs: |
-            dist/snake-ocean.svg?color_snake=#00cfff&color_dots=#000d1a,#001a33,#00264d,#003366,#004080
 
       - name: Commit & Push
         run: |
