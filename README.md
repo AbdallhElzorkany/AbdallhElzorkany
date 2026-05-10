@@ -180,7 +180,7 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
-
+---
 
 ## Connect With Me
 
@@ -206,15 +206,6 @@
 
 <a href="https://drive.google.com/file/d/15KY0P9hLK4kITUU1XzPzUDq1hfbB_Bpp/view">
   <img src="https://img.shields.io/badge/📄_View_My_CV-0d2818?style=for-the-badge&logo=google-drive&logoColor=00ff88"/>
-</a>
-
-<br><br>
-
-<a href="https://skyline.github.com/AbdallhElzorkany/2025">
-  <img src="https://img.shields.io/badge/🏙️_3D_Skyline_2025-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://skyline.github.com/AbdallhElzorkany/2024">
-  <img src="https://img.shields.io/badge/🏙️_3D_Skyline_2024-0a0f0d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
