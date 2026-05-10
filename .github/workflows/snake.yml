@@ -1,0 +1,41 @@
+name: 🐍 Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+        
+      # Ocean snake
+      - name: Generate Snake (Ocean)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AbdallhElzorkany
+          outputs: |
+            dist/snake-ocean.svg?color_snake=#00cfff&color_dots=#000d1a,#001a33,#00264d,#003366,#004080
+
+      - name: Commit & Push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add dist/
+          git diff --staged --quiet || git commit -m "🐍 Update snake animations"
+          
+          # Pull latest changes to avoid push rejection
+          git pull --rebase origin main || true
+          
+          git push origin main || true
