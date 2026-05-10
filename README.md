@@ -36,7 +36,7 @@
 ---
 <div align="center">
 
-## `$ whoami`
+## whoami
 
 **Name**     : Abdallh Elzorkany  
 **Role**     : Software Engineer | Front-end Engineer  
@@ -48,7 +48,7 @@
 
 ---
 
-## `$ cat stats`
+## stats
 
 <div align="center">
 
