@@ -178,7 +178,7 @@
 ## 3D Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
 

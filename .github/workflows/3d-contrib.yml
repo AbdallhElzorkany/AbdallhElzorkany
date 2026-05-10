@@ -18,12 +18,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: AbdallhElzorkany
           MAX_REPOS: 10
-          SETTING_JSON: .github/3d-contrib-settings.json
 
       - name: Commit & Push
         run: |
