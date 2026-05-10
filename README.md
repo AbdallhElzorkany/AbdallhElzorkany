@@ -127,22 +127,22 @@
 <div align="center">
 
 <a href="https://github.com/Rafiq-FCI-TU/rafiq-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiq-FCI-TU&repo=rafiq-ui&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=Rafiq-FCI-TU&repo=rafiq-ui&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/AbdallhElzorkany/Linku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallhElzorkany&repo=Linku&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=Linku&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/AbdallhElzorkany/MyZoo-deadAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallhElzorkany&repo=MyZoo-deadAPI&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=MyZoo-deadAPI&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/AbdallhElzorkany/TaskMaster">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallhElzorkany&repo=TaskMaster&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=TaskMaster&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/AbdallhElzorkany/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallhElzorkany&repo=weather-app&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=weather-app&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/AbdallhElzorkany/countries">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallhElzorkany&repo=countries&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=countries&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
 
 </div>
