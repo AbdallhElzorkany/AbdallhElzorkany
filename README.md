@@ -204,7 +204,7 @@
 
 <br><br>
 
-<a href="https://drive.google.com/file/d/15KY0P9hLK4kITUU1XzPzUDq1hfbB_Bpp/view">
+<a href="https://drive.google.com/file/d/1VZhaJjsw2lmDJ9SBUXHKPc0pZoTVTq7m/view">
   <img src="https://img.shields.io/badge/📄_View_My_CV-0d2818?style=for-the-badge&logo=google-drive&logoColor=00ff88"/>
 </a>
 
