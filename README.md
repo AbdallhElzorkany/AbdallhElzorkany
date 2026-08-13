@@ -124,7 +124,9 @@
 ## Projects
 
 <div align="center">
-
+<a href="https://github.com/AbdallhElzorkany/ecommerce">
+  <img src="https://readme-stats-fast.vercel.app/api/pin/?username=AbdallhElzorkany&repo=ecommerce&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+</a>
 <a href="https://github.com/Rafiq-FCI-TU/rafiq-ui">
   <img src="https://readme-stats-fast.vercel.app/api/pin/?username=Rafiq-FCI-TU&repo=rafiq-ui&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
 </a>
