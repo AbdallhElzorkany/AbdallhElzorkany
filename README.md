@@ -168,14 +168,6 @@
 
 ---
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdallhElzorkany&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
 ## 3D Contribution Calendar
 
 <div align="center">
@@ -206,7 +198,7 @@
 
 <br><br>
 
-<a href="https://drive.google.com/file/d/1jv5yQcKyTMtmNNsqSYA85eHGHHEBWjA2/view">
+<a href="https://drive.google.com/file/d/1S5pW_8ETuJcixKfFovzaq7tvGxMpgnNR/view">
   <img src="https://img.shields.io/badge/📄_View_My_CV-0d2818?style=for-the-badge&logo=google-drive&logoColor=00ff88"/>
 </a>
 
